@@ -30,7 +30,7 @@ const projects = [
     url: "https://voidhost.pro",
     status: "Live",
     tech: ["Pterodactyl", "Docker", "Linux", "Cloudflare"],
-    image: "https://8upload.com/image/68488dcce2fae/Screenshot_2025_0611_014202.png"
+    image: "https://8upload.com/image/684999bf4c02d/57a31128-5ee4-494a-853f-310e9336b4db.jpeg"
   },
   {
     id: 4,
